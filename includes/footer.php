@@ -1,0 +1,1 @@
+<footer class="site-footer">© <?= date('Y') ?> TypingTest Pro · Keep practicing.</footer></body></html>
